@@ -13,3 +13,4 @@ Velocity analysis
   
 ## Velocyto
 R tutioral: https://github.com/velocyto-team/velocyto.R?tab=readme-ov-file
+python tutoiral: https://www.youtube.com/watch?v=AUiYxtGJYtg
