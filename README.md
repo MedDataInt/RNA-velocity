@@ -8,6 +8,6 @@ pseudotime analysis
 * Slingshot  
 
 Velocity analysis
-* velocyto
+* velocyto https://velocyto.org/
 * scVelo
   
